@@ -1,1 +1,0 @@
-# spendguard1.1
